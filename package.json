@@ -1,0 +1,17 @@
+{
+  "name": "emak",
+  "version": "1.0.0",
+  "description": "Emak Software",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Finance"
+  ],
+  "author": "Dhakshna",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
